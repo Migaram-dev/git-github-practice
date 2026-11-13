@@ -34,3 +34,16 @@ as part of my software development journey.
 
 Migaram
 
+
+## Git Practice
+
+
+
+I have learned how to:
+
+\- Create Git branches
+
+\- Switch between branches
+
+\- Work on separate features
+
