@@ -47,3 +47,8 @@ I have learned how to:
 
 \- Work on separate features
 
+## VS Code Practice
+
+I am learning to manage Git repositories using
+Visual Studio Code and GitHub.
+
