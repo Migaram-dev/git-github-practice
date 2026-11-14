@@ -52,3 +52,6 @@ I have learned how to:
 I am learning to manage Git repositories using
 Visual Studio Code and GitHub.
 
+## Conflict Practice
+
+This line was written on the feature branch.
